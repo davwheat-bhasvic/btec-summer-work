@@ -4,6 +4,8 @@
 
 # Computing BTEC Summer Work
 
+**For the freecodecamp.org Full Course for Beginners.**
+
 ## Task 1 - Complete the Python video tutorial course
 
 A key part of this course is programming for a range of purposes using a variety of programming paradigms. To start with we will be looking at procedural programming using Python. after we will extend this into object-oriented programming, event driven programming and programming for the web and will then apply what you have learned to build mobile apps.
@@ -16,7 +18,7 @@ You will need to be able to write, save and run Python programs to complete this
 
 ### What do I do?
 
-To prepare for the programming part of the course, we would like you to complete the 4 ½ hour Python video tutorial you will find here.
+To prepare for the programming part of the course, we would like you to complete the [4½ hour Python video tutorial you will find here](https://www.youtube.com/watch?v=rfscVS0vtbw).
 
 You will write all the programs along with the presenter and save each program ready to hand in when you start college in September.
 
