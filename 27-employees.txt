@@ -1,0 +1,3 @@
+Foo - Sales Assistant
+Bar - Receptionist
+Baz - Manager
