@@ -32,7 +32,7 @@ Bring all your programs to your first lesson in college when you start in Septem
 
 This is a list of all the programs you will be writing as you work through the tutorials and they should all be brought to your first lesson:
 
-1. Set up and Hello World
+1. Setup and Hello World
 2. Drawing a Shape
 3. Variables and data types
 4. Working with Strings
