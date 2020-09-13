@@ -1,3 +1,5 @@
+![](../../../common-assets/blob/main/images/bhasvic/bhasvic-rect-hills-text-small.png?raw=true)
+
 # Computing BTEC Summer Work
 
 ## Task 1 - Complete the Python video tutorial course
