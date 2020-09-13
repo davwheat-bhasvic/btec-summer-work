@@ -1,4 +1,6 @@
-![](../../../common-assets/blob/main/images/bhasvic/bhasvic-rect-hills-text-small.png?raw=true)
+<p align="center">
+  <img src="../../../common-assets/blob/main/images/bhasvic/bhasvic-rect-hills-text-small.png?raw=true">
+</p>
 
 # Computing BTEC Summer Work
 
