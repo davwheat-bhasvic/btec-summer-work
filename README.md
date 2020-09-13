@@ -1,4 +1,4 @@
-<p style="text-align: center">
+<p align="center">
   <img src="../../../common-assets/blob/main/images/bhasvic/bhasvic-rect-hills-text-small.png?raw=true">
 </p>
 
